@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning devops tools and java .
 - 💞️ I’m looking to collaborate on projects which i should contribute and learn valuable lesson.
 - 📫 to reach me please mail to my personal email --> sagarkumarb980@gmail.com.
-- 😄 Pronouns:he/him.
+- 😄 Pronouns: he/him.
  
 
 <!---
