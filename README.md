@@ -1,85 +1,138 @@
-<!-- HERO -->
-<h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">🚀 Aspiring DevOps Engineer | Cloud | CI/CD | Automation</h3>
+<div align="center">
 
-<!-- TYPING ANIMATION -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Future+Top+1%25+DevOps+Engineer;CI%2FCD+Automation+Learner;Cloud+Infrastructure+Explorer;Building+Real-World+Projects+🔥" />
-</p>
+# Hello Techie's 👋 I'm Sagar
 
-<!-- PROFILE VIEWS -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=codecrafter06&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Future+Top+1%25+DevOps+Engineer;CI%2FCD+Automation+Learner;Cloud+Infrastructure+Explorer;Building+Production+Skills+⚙️" />
+
+</div>
 
 ---
 
-## 🧠 About Me
+## 🚀 About Me
 
-- 🎓 Final Year **BSc IT (Cloud Computing)** student  
-- 🌱 Currently focused on **DevOps, Docker, Kubernetes & CI/CD**  
-- 🧩 Strong interest in **infrastructure automation and real-world workflows**  
-- 🎯 Mission: Become a **top 1% DevOps Engineer**  
-- 💬 Ask me about **Linux, Git, Docker, CI/CD pipelines**
+I'm a **final-year BSc IT (Cloud Computing)** student from 🇮🇳 India, focused on building **real-world DevOps and cloud skills**. My goal is simple but ambitious: become a **top 1% DevOps Engineer** by mastering automation, CI/CD, and production infrastructure.
+
+- 🎓 Final Year **BSc IT – Cloud Computing**
+- 🔭 Currently working on **DevOps projects and automation workflows**
+- 🌱 Learning **Docker, Kubernetes, CI/CD and AWS**
+- 🧠 Strong interest in **infrastructure automation**
+- 💬 Ask me about **Linux, Git, Docker, CI/CD**
+- ⚡ Fun fact: I document everything I build
 
 ---
 
 ## 🏆 Current Achievements
 
-- ✅ Completed **7+ courses** from the IBM DevOps & Software Engineering Professional Certificate  
-- ✅ Built a **full-stack portfolio website** using Next.js and Python Flask  
-- ✅ Hands-on experience with **GitHub API automation using Python**  
-- ✅ Working knowledge of **Docker containers and basic Kubernetes concepts**  
-- ✅ Consistently building and documenting projects on GitHub  
+- 🟡 **AWS Certified Cloud Practitioner**
+
+<img src="https://img.shields.io/badge/AWS-Certified%20Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+
+- 🎓 **IIT Kharagpur Certifications**
+
+<img src="https://img.shields.io/badge/IIT%20Kharagpur-Programming%20in%20Java-blue?style=for-the-badge&logo=java&logoColor=white" />
+<img src="https://img.shields.io/badge/IIT%20Kharagpur-Data%20Communication%20%26%20Networking-blueviolet?style=for-the-badge&logo=cisco&logoColor=white" />
+
+- 🤖 Automated repository insights using **GitHub API + Python**
+- 🐳 Hands-on with **Docker containers**
+- 📌 Active project builder on GitHub
 
 ---
 
-## 🚀 Current Goals (2026 Focus)
+## 🎯 2026 Goals
 
-- 🔥 Complete the **IBM DevOps Professional Certificate**  
-- ⚙️ Master **Kubernetes and production-grade CI/CD pipelines**  
-- ☁️ Strengthen real-world skills in **AWS and cloud architecture**  
-- 💼 Secure a **paid DevOps internship / entry-level role**  
-- 📈 Build a portfolio that stands in the **top 1% of freshers**
+- ⚙️ Build **production-grade CI/CD pipelines**
+- ☁️ Strengthen **AWS cloud architecture skills**
+- 💼 Secure **paid DevOps internship / entry role**
+- 📈 Build a **top 1% fresher portfolio**
 
 ---
-
 ## 🛠️ Tech Stack
 
-<p align="center">
-<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,linux,git,python,java,php,nodejs,bash" />
+### **Languages & Frameworks**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 </p>
 
----
+### **Cloud & DevOps**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" alt="docker" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+</p>
+
+### **Databases & Monitoring**
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/prometheusio/prometheusio-icon.svg" alt="prometheus" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/>
+</p>
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=codecrafter06&show_icons=true&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecrafter06&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=codecrafter06&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecrafter06&layout=compact&theme=tokyonight" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecrafter06&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 
----
+</div>
 
-## 🐍 Contribution Snake (Animated)
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/codecrafter06/codecrafter06/output/github-contribution-grid-snake.svg" />
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecrafter06&theme=tokyonight&hide_border=true" width="420"/>
+</div>
 
 ---
 
-## 🤝 Connect With Me
+## 📈 Activity Graph
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sagar-kumar-behera/" target="blank">
-<img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=codecrafter06&theme=tokyo-night&hide_border=true"/>
+</div>
+
+---
+## 🌐 Connect With Me
+
+<div align="center">
+
+<a href="https://github.com/codecrafter06" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="github"/>
 </a>
-</p>
+
+<a href="https://www.linkedin.com/in/sagar-kumar-behera/" target="_blank">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" height="40" alt="linkedin"/>
+</a>
+
+<a href="https://discordapp.com/users/sagar_ops_02" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/discord/discord-icon.svg" height="40" alt="discord"/>
+</a>
+
+<a href="https://leetcode.com/codecrafter06" target="_blank">
+  <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/leetcode.svg" height="40" alt="leetcode"/>
+</a>
+
+<a href="https://www.reddit.com/user/MindFlayer01" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/reddit/reddit-icon.svg" height="40" alt="reddit"/>
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⚙️ "Automate the boring. Scale the important."
+
+<img src="https://komarev.com/ghpvc/?username=codecrafter06&color=0e75b6&style=flat-square" />
+
+</div>
