@@ -1,24 +1,85 @@
+<!-- HERO -->
 <h1 align="center">Hi 👋, I'm Sagar</h1>
-<h3 align="center">DevOps Enthusiast | CI/CD, Cloud, and Infrastructure as Code</h3>
+<h3 align="center">🚀 Aspiring DevOps Engineer | Cloud | CI/CD | Automation</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=codecrafter06&label=Profile%20views&color=0e75b6&style=flat" alt="codecrafter06" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=codecrafter06" alt="codecrafter06" /></a> </p>
-
-- 🌱 I’m currently learning **Devops , Product Owner, SCRUM Master, Developer**
-
-- 💬 Ask me about **Devops Mindset , Methodology,**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/sagar kumar behara" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sagar kumar behara" height="30" width="40" /></a>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=520&lines=Future+Top+1%25+DevOps+Engineer;CI%2FCD+Automation+Learner;Cloud+Infrastructure+Explorer;Building+Real-World+Projects+🔥" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://grafana.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" alt="grafana" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<!-- PROFILE VIEWS -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=codecrafter06&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=codecrafter06&show_icons=true&locale=en&layout=compact" alt="codecrafter06" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=codecrafter06&show_icons=true&locale=en" alt="codecrafter06" /></p>
+## 🧠 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=codecrafter06&" alt="codecrafter06" /></p>
+- 🎓 Final Year **BSc IT (Cloud Computing)** student  
+- 🌱 Currently focused on **DevOps, Docker, Kubernetes & CI/CD**  
+- 🧩 Strong interest in **infrastructure automation and real-world workflows**  
+- 🎯 Mission: Become a **top 1% DevOps Engineer**  
+- 💬 Ask me about **Linux, Git, Docker, CI/CD pipelines**
+
+---
+
+## 🏆 Current Achievements
+
+- ✅ Completed **7+ courses** from the IBM DevOps & Software Engineering Professional Certificate  
+- ✅ Built a **full-stack portfolio website** using Next.js and Python Flask  
+- ✅ Hands-on experience with **GitHub API automation using Python**  
+- ✅ Working knowledge of **Docker containers and basic Kubernetes concepts**  
+- ✅ Consistently building and documenting projects on GitHub  
+
+---
+
+## 🚀 Current Goals (2026 Focus)
+
+- 🔥 Complete the **IBM DevOps Professional Certificate**  
+- ⚙️ Master **Kubernetes and production-grade CI/CD pipelines**  
+- ☁️ Strengthen real-world skills in **AWS and cloud architecture**  
+- 💼 Secure a **paid DevOps internship / entry-level role**  
+- 📈 Build a portfolio that stands in the **top 1% of freshers**
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,jenkins,linux,git,python,java,php,nodejs,bash" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=codecrafter06&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=codecrafter06&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codecrafter06&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+## 🐍 Contribution Snake (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/codecrafter06/codecrafter06/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p align="center">
+<a href="https://www.linkedin.com/in/sagar-kumar-behera/" target="blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="40" width="40" />
+</a>
+</p>
